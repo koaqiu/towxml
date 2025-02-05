@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sbfkcel/towxml#readme",
   "dependencies": {
-    "fs-extra": "^8.1.0"
+    "fs-extra": "^8.1.0",
+    "towxml": "file:"
   }
 }
